@@ -2,7 +2,7 @@
 
 ## Overview
 
-px-localize-behavior is a Predix UI component
+px-localize-behavior extends app-localize-behavior and provides localization for all Predix UI components.
 
 ## Usage
 
@@ -12,26 +12,26 @@ px-localize-behavior is a Predix UI component
 3. bower
 4. [webcomponents-lite.js polyfill](https://github.com/webcomponents/webcomponentsjs)
 
-Node, npm and bower are necessary to install the component and dependencies. webcomponents.js adds support for web components and custom elements to your application.
+Node, npm and bower are necessary to install the behavior and dependencies. webcomponents.js adds support for web components and custom elements to your application.
 
 ## Getting Started
 
-First, install the component via bower on the command line.
+First, install the behavior via bower on the command line.
 
 ```
 bower install px-localize-behavior --save
 ```
 
-Second, import the component to your application with the following tag in your head.
+Second, import the behavior to your application or component with the following tag in your head.
 
 ```
 <link rel="import" href="/bower_components/px-localize-behavior/px-localize-behavior.html"/>
 ```
 
-Finally, use the component in your application:
+Finally, use the behavior in your application or component:
 
 ```
-Insert Your demo code here.
+behaviors: [PxLocalizeBehavior]
 ```
 
 <br />
