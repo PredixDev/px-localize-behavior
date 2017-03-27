@@ -1,3 +1,7 @@
+v0.0.3
+==================
+* move strings back to a property
+
 v0.0.2
 ==================
 * move strings to locales.json file
