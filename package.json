@@ -2,7 +2,7 @@
     "name": "px-localize-behavior",
     "author": "General Electric",
     "description": "A Px component",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "private": true,
     "extName": null,
     "repository": "https://github.com/PredixDev/px-localize-behavior.git",
