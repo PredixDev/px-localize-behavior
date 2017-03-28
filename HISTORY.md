@@ -1,3 +1,7 @@
+v0.0.4
+==================
+* added datetime strings
+
 v0.0.3
 ==================
 * move strings back to a property
